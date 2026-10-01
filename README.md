@@ -1,12 +1,10 @@
-# Team Name
+# Team Ivan
 
 Project description (~1 paragraph)
 
-## Team Members and Roles
+## Team Members and Roles (Working independently)
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Ivan
 
 ## Prerequisites
 
