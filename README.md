@@ -1,11 +1,5 @@
 # Team Ivan
 
-Project description (~1 paragraph)
+## Team Members and Roles 
 
-## Team Members and Roles (Working independently)
-
-* Ivan
-
-## Prerequisites
-
-## Run Instructions
+- [Ivan Bishop](https://github.com/IvanJBB/CIS641-HW2-Bishop/blob/main/README.md)
