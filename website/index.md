@@ -1,4 +1,4 @@
-#CIS 641 Term Project: Platformer Hopper
+# CIS 641 Term Project: Platformer Hopper
 
 ## Project Overview
 
@@ -21,10 +21,10 @@ This is a solo project, and Platformer Hopper, along with the GitHub repositorie
 [GitHub Repository](https://github.com/IvanJBB/GVSU-CIS641-TeamIvan.git)
 
 ## Documentation 
-[Software Requirements Specifications]()
+[Software Requirements Specifications](docs/srs.md)
 
 ## Artifacts 
-[Project Artifacts]()
+[Project Artifacts](artifacts/artifacts.md)
 
 
 
